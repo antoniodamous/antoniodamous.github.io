@@ -2,7 +2,8 @@
 
 ## Repositório Público de Antônio Damous
 
-Olá🖖🏼! Meu nome é Antônio e sou um solucionador de problemas que busca na programação as respostas. Estou em busca de oportunidades onde possa mostrar minhas habilidades e conhecimentos adquiridos 
+Olá, meu nome é Antônio e sou um autoditada e apaixonado por trazer soluções através da programação. Estou em busca de oportunidades onde possa mostrar minhas habilidades e conhecimentos.
+
 Abaixo estão alguns projetos:
 
 - [Em construção](ul)
