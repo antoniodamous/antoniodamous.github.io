@@ -2,7 +2,7 @@
 
 # Repositório Público de Antônio Damous
 
-Olá, meu nome é Antônio e sou um autoditada e apaixonado por trazer soluções através da programação. Estou em busca de oportunidades onde possa mostrar minhas habilidades e conhecimentos.
+Olá, meu nome é Antônio e sou um autoditada apaixonado por trazer soluções através da programação. Estou em busca de oportunidades onde possa mostrar minhas habilidades e conhecimentos.
 
 Abaixo estão alguns projetos:
 
