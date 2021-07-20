@@ -10,7 +10,6 @@ Abaixo estão alguns projetos:
 - [Aluraconf] (https://github.com/antoniodamous/aluraconf)
 - [Faculdade Unes](https://github.com/antoniodamous/site-faculdade-unes)
 - [Em construção](ul)
-- [Em construção](ul)
 
 ## Minha Stack Atual
 
