@@ -8,7 +8,7 @@ Abaixo estão alguns projetos:
 
 - [Institucional](https://github.com/antoniodamous/Institucional)
 - [Aluraconf](uhttps://github.com/antoniodamous/aluraconf)
-- [Em construção](ul)
+- [Faculdade Unes](https://github.com/antoniodamous/site-faculdade-unes)
 - [Em construção](ul)
 - [Em construção](ul)
 
