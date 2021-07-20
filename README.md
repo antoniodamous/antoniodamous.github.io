@@ -7,7 +7,7 @@ Olá, meu nome é Antônio e sou um autoditada e apaixonado por trazer soluçõe
 Abaixo estão alguns projetos:
 
 - [Institucional](https://github.com/antoniodamous/Institucional)
-- [Aluraconf](https://github.com/antoniodamous/aluraconf)
+- [Aluraconf] (https://github.com/antoniodamous/aluraconf)
 - [Faculdade Unes](https://github.com/antoniodamous/site-faculdade-unes)
 - [Em construção](ul)
 - [Em construção](ul)
