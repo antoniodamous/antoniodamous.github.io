@@ -6,14 +6,11 @@ Olá, meu nome é Antônio e sou um autoditada apaixonado por trazer soluções 
 
 Abaixo estão alguns projetos:
 
-<!-- ## [Faculdade Unes](https://antoniodamous.github.io/site-faculdade-unes/)
-- [Repositório](site-faculdade-unes)
+## [Faculdade Unes](https://antoniodamous.github.io/Projeto-Unes/)
+- [Repositório](https://github.com/antoniodamous/Projeto-Unes)
 
-## [AluraConf](https://antoniodamous.github.io/aluraconf/)
-- [Repositório](aluraconf)
-
-### **_Em Breve_**-->
-
+## [AluraConf](https://antoniodamous.github.io/Alura-Conf/)
+- [Repositório](https://github.com/antoniodamous/Alura-Conf)
 
 ## Minha Stack Atual
 
