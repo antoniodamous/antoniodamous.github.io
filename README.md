@@ -12,6 +12,9 @@ Abaixo estão alguns projetos:
 ## [AluraConf](https://antoniodamous.github.io/Alura-Conf/)
 - [Repositório](https://github.com/antoniodamous/Alura-Conf)
 
+## [Tabela Nutricionista](https://antoniodamous.github.io/Tabela-Nutricionista/)
+- [Repositório](https://github.com/antoniodamous/Tabela-Nutricionista)
+
 ## Minha Stack Atual
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodamous)](https://github.com/antoniodamous/github-readme-stats)
