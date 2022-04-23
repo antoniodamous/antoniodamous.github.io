@@ -4,7 +4,7 @@
 
 Olá, meu nome é Antônio e sou um autoditada apaixonado por trazer soluções através da programação. Estou em busca de oportunidades onde possa mostrar minhas habilidades e conhecimentos.
 
-Abaixo estão alguns projetos:
+Abaixo estão alguns projetos de estudo:
 
 ## [Faculdade Unes](https://antoniodamous.github.io/Projeto-Unes/)
 - [Repositório](https://github.com/antoniodamous/Projeto-Unes)
