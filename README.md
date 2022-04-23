@@ -4,7 +4,7 @@
 
 Olá, meu nome é Antônio e sou um autoditada apaixonado por trazer soluções através da programação. Estou em busca de oportunidades onde possa mostrar minhas habilidades e conhecimentos.
 
-Abaixo estão alguns projetos de estudo:
+Abaixo estão alguns projetos de estudo que estão sofrendo melhorias conforme aprendizado e desafios encontrados:
 
 ## [Faculdade Unes](https://antoniodamous.github.io/Projeto-Unes/)
 - [Repositório](https://github.com/antoniodamous/Projeto-Unes)
@@ -14,6 +14,13 @@ Abaixo estão alguns projetos de estudo:
 
 ## [Tabela Nutricionista](https://antoniodamous.github.io/Tabela-Nutricionista/)
 - [Repositório](https://github.com/antoniodamous/Tabela-Nutricionista)
+
+## [Barbearia Alura](https://antoniodamous.github.io/Barbearia-Alura/)
+- [Repositório](https://antoniodamous.github.io/Barbearia-Alura/)
+
+## [Typer](https://antoniodamous.github.io/Typer/)
+- [Repositório](https://antoniodamous.github.io/Typer/)
+
 
 ## Minha Stack Atual
 
