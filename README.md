@@ -16,11 +16,13 @@ Abaixo estão alguns projetos de estudo que estão sofrendo melhorias conforme a
 - [Repositório](https://github.com/antoniodamous/Tabela-Nutricionista)
 
 ## [Barbearia Alura](https://antoniodamous.github.io/Barbearia-Alura/)
-- [Repositório](https://antoniodamous.github.io/Barbearia-Alura/)
+- [Repositório](https://github.com/antoniodamous/Barbearia-Alura/)
 
 ## [Typer](https://antoniodamous.github.io/Typer/)
-- [Repositório](https://antoniodamous.github.io/Typer/)
+- [Repositório](https://github.com/antoniodamous/Typer/)
 
+## [Site Responsivo](https://antoniodamous.github.io/Site-Responsivo/)
+- [Repositório](https://github.com/antoniodamous/Site-Responsivo/)
 
 ## Minha Stack Atual
 
